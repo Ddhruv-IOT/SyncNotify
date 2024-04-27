@@ -38,7 +38,7 @@ To get started with SyncNotify, follow the steps:
    pip install -r requirements.py
    ```
 
-3. **Follow On-screen Instructions:**
+3. **Move to Startup Folder**
    
    Copy all the python files with `.py` extension to the start-up apps location, generally found on this address:
    > C:\Users\<user-name>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
